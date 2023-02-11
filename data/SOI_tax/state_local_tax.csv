@@ -1,0 +1,54 @@
+﻿state,min_income,max_income,min_bracket,max_bracket,no_income,flat_income
+Alabama,2,5,500,3001,0,0
+Alaska,0,0,,,1,0
+Arizona,2.59,4.5,27806,166843,0,0
+Arkansas,2,5.5,4300,8501,0,0
+California,1,13.3,9325,1000000,0,0
+Colorado,4.55,4.55,0,0,0,1
+Connecticut,3,6.99,10000,500000,0,0
+Delaware,0,6.6,0,60001,0,0
+District of Columbia,4,9.75,10000,1000000,0,0
+Florida,0,0,,,1,0
+Georgia,1,5.75,750,7001,0,0
+Hawaii,1.4,11,2400,200000,0,0
+Idaho,1.125,6.5,1568,7939,0,0
+Illinois,4.95,4.95,0,0,0,1
+Indiana,3.23,3.23,0,0,0,1
+Iowa,0.33,8.53,1743,78435,0,0
+Kansas,3.1,5.7,15000,30000,0,0
+Kentucky,5,5,0,0,0,1
+Louisiana,1.85,4.25,12500,50001,0,0
+Maine,5.8,7.15,23000,54450,0,0
+Maryland,2,5.75,1000,250000,0,0
+Massachusetts,5,5,0,0,0,1
+Michigan,4.25,4.25,0,0,0,1
+Minnesota,5.35,9.85,28080,171221,0,0
+Mississippi,0,5,5000,10001,0,0
+Missouri,1.5,5.3,1121,8968,0,0
+Montana,1,6.75,2900,17400,0,0
+Nebraska,2.46,6.84,3340,32210,0,0
+Nevada,0,0,,,1,0
+New Hampshire,0,0,,,1,0
+New Jersey,1.4,10.75,20000,1000000,0,0
+New Mexico,1.7,5.9,5500,210000,0,0
+New York,4,10.9,8500,25000000,0,0
+North Carolina,4.99,5.25,0,0,0,1
+North Dakota,1.1,2.9,41775,458350,0,0
+Ohio,0,3.99,25000,110650,0,0
+Oklahoma,0.25,4.75,1000,7200,0,0
+Oregon,4.75,9.9,3750,125000,0,0
+Pennsylvania,3.07,3.07,0,0,0,1
+Rhode Island,3.75,5.99,68200,155050,0,0
+South Carolina,0,7,3110,15560,0,0
+South Dakota,0,0,,,1,0
+Tennessee,0,0,,,1,0
+Texas,0,0,,,1,0
+Utah,4.95,4.95,0,0,0,1
+Vermont,3.35,8.75,42150,213150,0,0
+Virginia,2,5.75,3000,17001,0,0
+Washington,0,0,,,1,0
+West Virginia,3,6.5,10000,60000,0,0
+Wisconsin,3.54,7.65,12760,280950,0,0
+Wyoming,0,0,,,1,0
+,,,,,,
+Your Guide to State Income Tax Rates (thebalancemoney.com),,,,,,
