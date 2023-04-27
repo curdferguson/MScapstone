@@ -1,8 +1,6 @@
 .databricks
 .vscode
-*.docx
 MScapstone.code-workspace
 data/religion
-data/*/*.docx
-data/*
 bivariate red blue scale.png
+data/patent

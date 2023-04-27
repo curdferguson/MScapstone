@@ -1,0 +1,3 @@
+Note: The 2010 OMB Standards for Delineating Metropolitan and Micropolitan Statistical Areas are at <https://www.gpo.gov/fdsys/pkg/FR-2010-06-28/pdf/2010-15605.pdf> and <https://www.gpo.gov/fdsys/pkg/FR-2010-07-07/pdf/2010-16368.pdf>.											
+Source: File prepared by U.S. Census Bureau, Population Division, based on Office of Management and Budget, March 2020 delineations <https://www.whitehouse.gov/wp-content/uploads/2020/03/Bulletin-20-01.pdf>.											
+Internet Release Date: April 2020											
