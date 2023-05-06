@@ -1,6 +1,5 @@
 .databricks
 .vscode
 MScapstone.code-workspace
-data/religion
 bivariate red blue scale.png
-data/patent
+data/patent/unprocessed/ai_model_predictions.tsv
